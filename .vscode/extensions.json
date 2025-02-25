@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "antfu.unocss",
+        "editorconfig.editorconfig",
+        "figma.figma-vscode-extension"
+    ]
+}
