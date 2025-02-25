@@ -1,4 +1,4 @@
-# NOT UT Registration Plus
+# UT Registration Minus
 
 This is a tmp repo for onboarding new LHD members to the UTRP repo.
 
