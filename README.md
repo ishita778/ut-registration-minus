@@ -1,4 +1,6 @@
-# UT Registration Plus
+# NOT UT Registration Plus
+
+This is a tmp repo for onboarding new LHD members to the UTRP repo.
 
 ![UTRP Social Preview](images/UTRP_Social-Preview_Prod.svg)
 
