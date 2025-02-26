@@ -77,7 +77,7 @@ export function Button({
             {!isIconOnly && (
                 <Text
                     variant={size === 'regular' ? 'h4' : 'small'}
-                    className='lowercase! inline-flex translate-y-0.08 items-center gap-2'
+                    className='inline-flex translate-y-0.08 items-center gap-2 uppercase! text-pink!'
                 >
                     {children}
                 </Text>
